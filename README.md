@@ -5,5 +5,10 @@
 
 ### Full Stack Web Developer Student
 
+### Currently studying STACK MEAN AND MERN
+### knowledge gained so far: HTML, CSS, JS, NODEJS, SQL, MONGODB, 
+### Template Engine: Preferably Handelbars
+
+### I am a person in constant learning and proactive
 
   
