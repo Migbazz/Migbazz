@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h1 align="center"> Hi  , I'm Miguel Bazzarelli</h1>
     <img src="https://user-images.githubusercontent.com/105244506/196019391-b43de677-ae98-4120-8d60-69bca4a9383f.png" alt="me" width="400">
-    <h3 align="center"> A passionate full stack web developer from Argentina. 
+    <h3 align="center"> A passionate web developer from Argentina. 
         I like to constantly learn frontend and backend languages and frameworks</h3>
 </div>
 
